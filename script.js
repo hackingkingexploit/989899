@@ -1,4 +1,4 @@
-document.getElementsByTagName("html")[0].innerHTML = `
+document.getElementsByTagName("html")[0].innerHTML = "
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -121,4 +121,4 @@ document.getElementsByTagName("html")[0].innerHTML = `
     </div>
 </body>
 </html>
-`;
+";
